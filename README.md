@@ -12,5 +12,8 @@ Run `md5-generator.exe FILENAME` where `FILENAME` contains the directory path.
 * `-f` - Is a folder (no argument)
 * `-j` - Outputs as json file (no argument)
 
+## Building
+Built using [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) and does not contain any external packages.
+
 ## License
 This program is licensed under the MIT License.
