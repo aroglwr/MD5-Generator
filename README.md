@@ -1,5 +1,7 @@
 # MD5 Generator
-![Logo](https://cdn.discordapp.com/attachments/513331574188539924/1173424292671795321/icon.png?ex=6563e788&is=65517288&hm=e5e7434564df29169e35798b047f8fdd40c830882b51363c77bfa004d3d8ab6c&)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/513331574188539924/1173424292671795321/icon.png?ex=6563e788&is=65517288&hm=e5e7434564df29169e35798b047f8fdd40c830882b51363c77bfa004d3d8ab6c&" />
+</p>
 ## What is this?
 This is a simple command line program that generates and outputs a file containing MD5 hashes for a supplied file. It supports single files or folders containing files using `-f`. It will not search subfolders.
 
