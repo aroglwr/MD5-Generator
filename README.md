@@ -1,5 +1,5 @@
 # MD5 Generator
-
+![Logo](./icon.ico)
 ## What is this?
 This is a simple command line program that generates and outputs a file containing MD5 hashes for a supplied file. It supports single files or folders containing files using `-f`. It will not search subfolders.
 
